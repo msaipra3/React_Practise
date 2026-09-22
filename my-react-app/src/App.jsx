@@ -42,7 +42,7 @@ function App() {
       {/* Main Layout */}
       <main className="main">
 
-        {/* Header */}
+        Header
         <header className="header">
           <h1>Dashboard</h1>
           <button>Profile</button>
