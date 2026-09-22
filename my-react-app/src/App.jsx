@@ -11,7 +11,7 @@ function App() {
       <aside className="sidebar">
         <h2 className="logo">MyApp</h2>
 
-        {/* <nav>
+        <nav>
           <div className="nav-item active">
             🏠
             <span>Dashboard</span>
@@ -36,7 +36,7 @@ function App() {
             📁
             <span>Projects</span>
           </div>
-        </nav> */}
+        </nav>
       </aside>
 
       {/* Main Layout */}
